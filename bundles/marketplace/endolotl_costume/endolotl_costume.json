@@ -1,0 +1,11 @@
+{
+    "type": "COSTUME",
+
+    "id": "03909b01-724c-4a2e-8a2d-3bf74264c8f9",
+
+    "name": "Endolotl",
+
+    "render": "/costumes/endolotl_costume_render.webp",
+
+    "bundle": "23a390de-1550-4a4a-a0c2-86eb6fa9bbd2"
+}

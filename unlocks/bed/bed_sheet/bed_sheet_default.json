@@ -1,0 +1,10 @@
+{
+    "type": "UNLOCK",
+
+    "game_id": "BED",
+    "unlock_id": "BED_SHEET",
+    "level_id": "0",
+
+    "name": "Default",
+    "icon": "https://cdn.playhive.com/icons/locker/bed/sheet/default.png"
+}
