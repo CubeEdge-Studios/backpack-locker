@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "ZAPPER_TRAIL",
+  "level_id": "22",
+  "name": "Yellow Swirls",
+  "icon": "/unlocks/particles.png"
+}

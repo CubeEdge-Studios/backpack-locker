@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "ZAPPER_TRAIL",
+  "level_id": "26",
+  "name": "Magenta Swirls",
+  "icon": "/unlocks/particles.png"
+}

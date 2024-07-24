@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "ZAPPER_TRAIL",
+  "level_id": "42",
+  "name": "Blue Sparkles",
+  "icon": "/unlocks/particles.png"
+}

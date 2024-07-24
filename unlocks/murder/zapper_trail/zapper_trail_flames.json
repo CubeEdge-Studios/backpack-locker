@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "ZAPPER_TRAIL",
+  "level_id": "75",
+  "name": "Flames",
+  "icon": "/unlocks/particles.png"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "GHOST_COLOR",
+  "level_id": "0",
+  "name": "Teal",
+  "icon": "/unlocks/murder/ghost_color/teal.png"
+}
