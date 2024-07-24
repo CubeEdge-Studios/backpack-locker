@@ -1,0 +1,8 @@
+{
+    "type": "UNLOCK",
+    "game_id": "BED",
+    "unlock_id": "BED_PILLOW",
+    "level_id": "1",
+    "name": "Default",
+    "icon": "https://cdn.playhive.com/icons/locker/bed/pillow/default.png"
+}

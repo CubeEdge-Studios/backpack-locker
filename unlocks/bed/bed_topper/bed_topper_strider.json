@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "BED",
+  "unlock_id": "BED_TOPPER",
+  "level_id": "11",
+  "name": "Strider",
+  "icon": "https://cdn.playhive.com/icons/locker/bed/topper/strider.png"
+}

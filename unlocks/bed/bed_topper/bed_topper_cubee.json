@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "BED",
+  "unlock_id": "BED_TOPPER",
+  "level_id": "50",
+  "name": "Cubee",
+  "icon": "https://cdn.playhive.com/icons/locker/bed/topper/cubee.png"
+}

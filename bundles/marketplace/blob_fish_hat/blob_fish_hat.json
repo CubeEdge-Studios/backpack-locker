@@ -1,11 +1,7 @@
 {
-    "type": "HAT",
-
-    "id": "91470768-cda1-424d-b301-4b915f4dc888",
-
-    "name": "Blob Fish",
-
-    "icon": "https://cdn.playhive.com/avatars/hat-blob-fish.png",
-
-    "bundle": "363ef8fb-097f-4c38-a71f-483c8d3a3f40"
+  "type": "HAT",
+  "id": "91470768-cda1-424d-b301-4b915f4dc888",
+  "name": "Blob Fish",
+  "icon": "https://cdn.playhive.com/avatars/hat-blob-fish.png",
+  "bundle": "363ef8fb-097f-4c38-a71f-483c8d3a3f40"
 }

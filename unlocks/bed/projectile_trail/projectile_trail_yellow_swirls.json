@@ -1,0 +1,8 @@
+{
+    "type": "UNLOCK",
+    "game_id": "BED",
+    "unlock_id": "PROJECTILE_TRAIL",
+    "level_id": "27",
+    "name": "Yellow Swirls",
+    "icon": "https://cdn.playhive.com/icons/locker/bed/projectile-trail/swirl.png"
+}

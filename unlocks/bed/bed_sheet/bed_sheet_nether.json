@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "BED",
+  "unlock_id": "BED_SHEET",
+  "level_id": "8",
+  "name": "Nether",
+  "icon": "https://cdn.playhive.com/icons/locker/bed/sheet/nether.png"
+}

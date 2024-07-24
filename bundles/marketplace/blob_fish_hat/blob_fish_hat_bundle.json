@@ -1,16 +1,11 @@
 {
-    "type": "BUNDLE",
-
-    "id": "363ef8fb-097f-4c38-a71f-483c8d3a3f40",
-    "marketplace_id": "363ef8fb-097f-4c38-a71f-483c8d3a3f40",
-
-    "name": "Blob Fish Hat",
-    "description": "Blob? BLOB!\r\n\r\n- Hat rarity: rare\r\n- Animated\r\n- 2 Variants\r\n\r\nNote: This hat only works on The Hive server",
-
-    "thumbnail": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d8d2d96f-5308-4632-9d52-85d6b93707cd/blobfish_Thumbnail_0.jpg",
-
-    "price": 310,
-    "currency": "MINECOIN",
-
-    "released_at": "2024-02-16T18:00:00Z"
+  "type": "BUNDLE",
+  "id": "363ef8fb-097f-4c38-a71f-483c8d3a3f40",
+  "marketplace_id": "363ef8fb-097f-4c38-a71f-483c8d3a3f40",
+  "name": "Blob Fish Hat",
+  "description": "Blob? BLOB!\r\n\r\n- Hat rarity: rare\r\n- Animated\r\n- 2 Variants\r\n\r\nNote: This hat only works on The Hive server",
+  "thumbnail": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d8d2d96f-5308-4632-9d52-85d6b93707cd/blobfish_Thumbnail_0.jpg",
+  "price": 310,
+  "currency": "MINECOIN",
+  "released_at": "2024-02-16T18:00:00Z"
 }

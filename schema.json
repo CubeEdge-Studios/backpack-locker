@@ -1,0 +1,163 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "type": {
+      "type": "string",
+      "enum": [
+        "BUNDLE",
+        "COSTUME",
+        "HAT",
+        "AVATAR",
+        "TITLE",
+        "MOUNT",
+        "PET",
+        "BACKBLING",
+        "UNLOCK"
+      ]
+    },
+
+    "id": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$"
+    },
+    "marketplace_id": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$"
+    },
+
+    "game_id": {
+      "type": "string",
+      "enum": [
+        "DR",
+        "MURDER",
+        "SKY",
+        "CTF",
+        "SG",
+        "HIDE",
+        "BED",
+        "GRAV",
+        "PARTY",
+        "DROP",
+        "BUILD",
+        "GROUND",
+        "BRIDGE",
+        "PARKOUR",
+        "WARS"
+      ]
+    },
+
+    "unlock_id": {
+      "type": "string",
+      "enum": [
+        "BED_FRAME",
+        "BED_PILLOW",
+        "BED_SHEET",
+        "BED_TOPPER",
+        "MERCHANT_SKIN",
+        "PROJECTILE_TRAIL",
+        "HUB_TITLE",
+        "AVATAR",
+        "COSTUME",
+        "POWERUP",
+        "ELIMINATION_MESSAGE",
+        "ELIMINATION_SOUND",
+        "ELIMINATION_BEACON",
+        "LEAP_EFFECT",
+        "TRAIL",
+        "HAT",
+        "GOAL_SKIN",
+        "FLAG",
+        "ITEM_STATION",
+        "UPGRADE_STATION",
+        "DEATH_SKIN",
+        "RUNNER_CAPE",
+        "DEATH_MARKER",
+        "PORTAL_TAUNT",
+        "PROJECTILE",
+        "BLOCK_EYES",
+        "BLOCK_LEGS",
+        "ELIMINATION_PARTICLES",
+        "BLOCK_HAT",
+        "TAUNT",
+        "HELMET",
+        "GRAVESTONE",
+        "GHOST_COLOR",
+        "THROWABLE",
+        "ZAPPER_TRAIL",
+        "DEATH_CRATE",
+        "ISLAND_FLAG",
+        "SPAWN_VEHICLE",
+        "ELIMINATION_EFFECT",
+        "SPAWN_PEDESTAL",
+        "AUTO_BRIDGER",
+        "TREASURE",
+        "PARTICLES"
+      ]
+    },
+
+    "level_id": {
+      "type": "string",
+      "pattern": "^(\\d{1,3}|I|II|III|IV|V)$"
+    },
+
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+
+    "image": {
+      "type": "string"
+    },
+    "thumbnail": {
+      "type": "string"
+    },
+
+    "display_text": {
+      "type": "string"
+    },
+
+    "price": {
+      "type": "number",
+      "minimum": 0
+    },
+    "currency": {
+      "type": "string",
+      "enum": ["MINECOIN"]
+    },
+
+    "tags": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "UNOBTAINABLE",
+          "PAID",
+          "QUEST",
+          "NEWSLETTER",
+          "HUB_QUEST",
+          "LIMITED"
+        ]
+      }
+    },
+    "released_at": {
+      "type": "string",
+      "pattern": "^\\d{4}-[01]\\d-[0-3]\\dT[0-2]\\d:[0-5]\\d:[0-5]\\d([+-][0-2]\\d:[0-5]\\d|Z)$"
+    },
+    "bundle": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$"
+    }
+  },
+
+  "if": {
+    "properties": { "type": { "const": "UNLOCK" } }
+  },
+  "then": {
+    "required": ["type", "game_id", "unlock_id", "level_id", "name"]
+  },
+  "else": {
+    "required": ["type", "id", "name"]
+  }
+}

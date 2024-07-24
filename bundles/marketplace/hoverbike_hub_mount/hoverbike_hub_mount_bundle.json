@@ -1,16 +1,11 @@
 {
-    "type": "BUNDLE",
-
-    "id": "26bbe243-2879-4b5f-8f75-a15de8235b53",
-    "marketplace_id": "e39d09a2-5170-4edf-9126-44a4b0505eae",
-
-    "name": "Hoverbike Hub Mount",
-    "description": "It's time to cruise the night skies!\r\n\r\n+ Multi-seat mount, ride with a friend\r\n+ 4 different variants\r\n+ Use to fly around hubs\r\n+ Custom models and animations\r\n\r\nNote: This mount only works on The Hive server",
-
-    "thumbnail": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/02f256a2-912f-4775-a19f-bdd1119ced3e/hoverbike_Thumbnail_0.jpg",
-
-    "price": 1340,
-    "currency": "MINECOIN",
-
-    "released_at": "2023-07-14T17:00:00Z"
+  "type": "BUNDLE",
+  "id": "26bbe243-2879-4b5f-8f75-a15de8235b53",
+  "marketplace_id": "e39d09a2-5170-4edf-9126-44a4b0505eae",
+  "name": "Hoverbike Hub Mount",
+  "description": "It's time to cruise the night skies!\r\n\r\n+ Multi-seat mount, ride with a friend\r\n+ 4 different variants\r\n+ Use to fly around hubs\r\n+ Custom models and animations\r\n\r\nNote: This mount only works on The Hive server",
+  "thumbnail": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/02f256a2-912f-4775-a19f-bdd1119ced3e/hoverbike_Thumbnail_0.jpg",
+  "price": 1340,
+  "currency": "MINECOIN",
+  "released_at": "2023-07-14T17:00:00Z"
 }

@@ -1,10 +1,7 @@
 {
-    "type": "MOUNT",
-
-    "id": "9be25dd0-c859-45b3-a8f8-d3af2074432b",
-
-    "name": "Hoverbike",
-    "icon": "https://cdn.playhive.com/avatars/mount-hoverbike.png",
-
-    "bundle": "26bbe243-2879-4b5f-8f75-a15de8235b53"
+  "type": "MOUNT",
+  "id": "9be25dd0-c859-45b3-a8f8-d3af2074432b",
+  "name": "Hoverbike",
+  "icon": "https://cdn.playhive.com/avatars/mount-hoverbike.png",
+  "bundle": "26bbe243-2879-4b5f-8f75-a15de8235b53"
 }

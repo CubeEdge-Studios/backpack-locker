@@ -1,16 +1,11 @@
 {
-    "type": "BUNDLE",
-
-    "id": "925a939b-9f1b-438e-b172-53e2ab318fe8",
-    "marketplace_id": "925a939b-9f1b-438e-b172-53e2ab318fe8",
-
-    "name": "Cuddle Bear Back Bling",
-    "description": "We're not sure what happened either...\r\n\r\n- Back bling rarity: rare\r\n- 3 Variants\r\n\r\nNote: This back bling only works on The Hive server",
-
-    "thumbnail": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4a07a366-6359-4228-8876-113f798eecb0/cuddlebear_Thumbnail_0.jpg",
-
-    "price": 310,
-    "currency": "MINECOIN",
-
-    "released_at": "2024-02-16T18:00:00Z"
+  "type": "BUNDLE",
+  "id": "925a939b-9f1b-438e-b172-53e2ab318fe8",
+  "marketplace_id": "925a939b-9f1b-438e-b172-53e2ab318fe8",
+  "name": "Cuddle Bear Back Bling",
+  "description": "We're not sure what happened either...\r\n\r\n- Back bling rarity: rare\r\n- 3 Variants\r\n\r\nNote: This back bling only works on The Hive server",
+  "thumbnail": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4a07a366-6359-4228-8876-113f798eecb0/cuddlebear_Thumbnail_0.jpg",
+  "price": 310,
+  "currency": "MINECOIN",
+  "released_at": "2024-02-16T18:00:00Z"
 }

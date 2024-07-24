@@ -1,16 +1,11 @@
 {
-    "type": "BUNDLE",
-
-    "id": "c908bc7a-11e7-4600-8205-d53e8e5eeb1b",
-    "marketplace_id": "c908bc7a-11e7-4600-8205-d53e8e5eeb1b",
-
-    "name": "Parrot: Pirate Edition Pet",
-    "description": "The perfect plunder buddy to sail the seas with!\r\n\r\nFeatures:\r\n+ 3D pet with animations and particles!\r\n+ Works in hubs\r\n+ Includes matching hub title\r\n+ Includes matching avatar \r\n+ Includes one free Pet Rename Pass\r\n\r\nNote: This pet only works on The Hive server",
-
-    "thumbnail": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1da7c6cc-fdfd-4ceb-90a0-4f37f3c8b37c/pirateparrot_Thumbnail_0.jpg",
-
-    "price": 830,
-    "currency": "MINECOIN",
-
-    "released_at": "2022-08-18T17:00:00Z"
+  "type": "BUNDLE",
+  "id": "c908bc7a-11e7-4600-8205-d53e8e5eeb1b",
+  "marketplace_id": "c908bc7a-11e7-4600-8205-d53e8e5eeb1b",
+  "name": "Parrot: Pirate Edition Pet",
+  "description": "The perfect plunder buddy to sail the seas with!\r\n\r\nFeatures:\r\n+ 3D pet with animations and particles!\r\n+ Works in hubs\r\n+ Includes matching hub title\r\n+ Includes matching avatar \r\n+ Includes one free Pet Rename Pass\r\n\r\nNote: This pet only works on The Hive server",
+  "thumbnail": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1da7c6cc-fdfd-4ceb-90a0-4f37f3c8b37c/pirateparrot_Thumbnail_0.jpg",
+  "price": 830,
+  "currency": "MINECOIN",
+  "released_at": "2022-08-18T17:00:00Z"
 }

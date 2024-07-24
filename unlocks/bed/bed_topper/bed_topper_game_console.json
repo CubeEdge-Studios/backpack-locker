@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "BED",
+  "unlock_id": "BED_TOPPER",
+  "level_id": "41",
+  "name": "Game Console",
+  "icon": "https://cdn.playhive.com/icons/locker/bed/topper/game-console.png"
+}

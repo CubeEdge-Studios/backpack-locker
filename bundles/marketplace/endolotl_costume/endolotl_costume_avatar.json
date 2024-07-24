@@ -1,10 +1,7 @@
 {
-    "type": "AVATAR",
-
-    "id": "9e5b08d5-648c-4f7c-9078-8f4b7071a366",
-
-    "name": "The Endolotl",
-    "icon": "https://cdn.playhive.com/avatars/costume-endolotl.png",
-
-    "bundle": "23a390de-1550-4a4a-a0c2-86eb6fa9bbd2"
+  "type": "AVATAR",
+  "id": "9e5b08d5-648c-4f7c-9078-8f4b7071a366",
+  "name": "The Endolotl",
+  "icon": "https://cdn.playhive.com/avatars/costume-endolotl.png",
+  "bundle": "23a390de-1550-4a4a-a0c2-86eb6fa9bbd2"
 }

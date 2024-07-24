@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "BED",
+  "unlock_id": "MERCHANT_SKIN",
+  "level_id": "20",
+  "name": "Pirate",
+  "icon": "https://cdn.playhive.com/icons/locker/bed/merchant/pirate.png"
+}
