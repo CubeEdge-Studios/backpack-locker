@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "HIDE",
+  "unlock_id": "ELIMINATION_PARTICLE",
+  "level_id": "73",
+  "name": "Confetti",
+  "icon": "https://cdn.playhive.com/icons/locker/hide/killparticle/hide-kill-particle.png"
+}

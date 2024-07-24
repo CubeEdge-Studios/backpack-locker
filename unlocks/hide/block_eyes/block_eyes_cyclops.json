@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "HIDE",
+  "unlock_id": "BLOCK_EYES",
+  "level_id": "11",
+  "name": "Cyclops",
+  "icon": "https://cdn.playhive.com/icons/locker/hide/blockeyes/cyclops.png"
+}

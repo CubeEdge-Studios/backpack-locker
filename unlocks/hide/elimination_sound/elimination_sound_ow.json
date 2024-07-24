@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "HIDE",
+  "unlock_id": "ELIMINATION_SOUND",
+  "level_id": "49",
+  "name": "Ow",
+  "icon": "https://cdn.playhive.com/icons/locker/hide/killsound/hide-kill-sound.png"
+}
