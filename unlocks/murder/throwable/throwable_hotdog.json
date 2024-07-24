@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "59",
+  "name": "Hotdog",
+  "icon": "/unlocks/murder/throwable/hotdog.png"
+}

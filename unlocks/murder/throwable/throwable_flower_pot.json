@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "43",
+  "name": "Flower Pot",
+  "icon": "/unlocks/murder/throwable/flower_pot.png"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "GRAVESTONE",
+  "level_id": "48",
+  "name": "Mini House",
+  "icon": "/unlocks/murder/gravestone/mini_house.png"
+}

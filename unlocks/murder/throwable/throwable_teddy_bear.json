@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "81",
+  "name": "Teddy Bear",
+  "icon": "/unlocks/murder/throwable/teddy_bear.png"
+}

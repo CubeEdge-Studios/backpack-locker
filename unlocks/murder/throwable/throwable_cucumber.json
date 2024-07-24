@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "32",
+  "name": "Cucumber",
+  "icon": "/unlocks/murder/throwable/cucumber.png"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "GRAVESTONE",
+  "level_id": "29",
+  "name": "Shovel",
+  "icon": "/unlocks/murder/gravestone/shovel.png"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "85",
+  "name": "Pizza Slice",
+  "icon": "/unlocks/murder/throwable/pizza_slice.png"
+}

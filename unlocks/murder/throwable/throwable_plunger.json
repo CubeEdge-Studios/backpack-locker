@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "98",
+  "name": "Plunger",
+  "icon": "/unlocks/murder/throwable/plunger.png"
+}

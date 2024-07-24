@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "5",
+  "name": "Fork",
+  "icon": "/unlocks/murder/throwable/fork.png"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "96",
+  "name": "Banana",
+  "icon": "/unlocks/murder/throwable/banana.png"
+}

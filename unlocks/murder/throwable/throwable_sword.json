@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "92",
+  "name": "Sword",
+  "icon": "/unlocks/murder/throwable/sword.png"
+}

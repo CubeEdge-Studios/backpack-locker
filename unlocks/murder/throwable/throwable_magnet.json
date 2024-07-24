@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "24",
+  "name": "Magnet",
+  "icon": "/unlocks/murder/throwable/magnet.png"
+}

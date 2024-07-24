@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "GRAVESTONE",
+  "level_id": "41",
+  "name": "Backpack",
+  "icon": "/unlocks/murder/gravestone/backpack.png"
+}

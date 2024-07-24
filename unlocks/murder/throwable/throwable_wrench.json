@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "3",
+  "name": "Wrench",
+  "icon": "/unlocks/murder/throwable/wrench.png"
+}

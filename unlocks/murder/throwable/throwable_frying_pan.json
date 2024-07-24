@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "94",
+  "name": "Frying Pan",
+  "icon": "/unlocks/murder/throwable/frying_pan.png"
+}

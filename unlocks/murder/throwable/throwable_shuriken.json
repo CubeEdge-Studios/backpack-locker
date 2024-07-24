@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "88",
+  "name": "Shuriken",
+  "icon": "/unlocks/murder/throwable/shuriken.png"
+}

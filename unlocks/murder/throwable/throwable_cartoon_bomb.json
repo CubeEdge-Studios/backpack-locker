@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "64",
+  "name": "Cartoon Bomb",
+  "icon": "/unlocks/murder/throwable/cartoon_bomb.png"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "GRAVESTONE",
+  "level_id": "67",
+  "name": "Snowman",
+  "icon": "/unlocks/murder/gravestone/snowman.png"
+}

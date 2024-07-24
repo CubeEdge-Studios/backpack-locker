@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "GRAVESTONE",
+  "level_id": "17",
+  "name": "Bird Nest",
+  "icon": "/unlocks/murder/gravestone/bird_nest.png"
+}

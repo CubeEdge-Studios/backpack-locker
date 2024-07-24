@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "21",
+  "name": "Pencil",
+  "icon": "/unlocks/murder/throwable/pencil.png"
+}

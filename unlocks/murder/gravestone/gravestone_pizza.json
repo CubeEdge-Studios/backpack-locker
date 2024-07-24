@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "GRAVESTONE",
+  "level_id": "63",
+  "name": "Pizza",
+  "icon": "/unlocks/murder/gravestone/pizza.png"
+}

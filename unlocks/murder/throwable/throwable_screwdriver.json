@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "28",
+  "name": "Screwdriver",
+  "icon": "/unlocks/murder/throwable/screwdriver.png"
+}

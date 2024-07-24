@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "71",
+  "name": "Ping Pong Paddle",
+  "icon": "/unlocks/murder/throwable/ping_pong_paddle.png"
+}

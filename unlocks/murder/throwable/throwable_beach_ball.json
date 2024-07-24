@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "54",
+  "name": "Beach Ball",
+  "icon": "/unlocks/murder/throwable/beach_ball.png"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "45",
+  "name": "Baseball Bat",
+  "icon": "/unlocks/murder/throwable/baseball_bat.png"
+}

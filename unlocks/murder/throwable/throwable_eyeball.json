@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "47",
+  "name": "Eyeball",
+  "icon": "/unlocks/murder/throwable/eyeball.png"
+}

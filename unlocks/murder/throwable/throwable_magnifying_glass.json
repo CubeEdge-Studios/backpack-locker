@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "90",
+  "name": "Magnifying Glass",
+  "icon": "/unlocks/murder/throwable/magnifying_glass.png"
+}

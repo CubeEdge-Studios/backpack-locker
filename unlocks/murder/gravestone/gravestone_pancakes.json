@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "GRAVESTONE",
+  "level_id": "55",
+  "name": "Pancakes",
+  "icon": "/unlocks/murder/gravestone/pancakes.png"
+}

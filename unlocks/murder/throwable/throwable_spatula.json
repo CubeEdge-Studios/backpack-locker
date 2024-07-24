@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "MURDER",
+  "unlock_id": "THROWABLE",
+  "level_id": "19",
+  "name": "Spatula",
+  "icon": "/unlocks/murder/throwable/spatula.png"
+}
