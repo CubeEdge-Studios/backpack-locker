@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "WARS",
+  "unlock_id": "AUTO_BRIDGER",
+  "level_id": "20",
+  "name": "Parrot",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/bridgebuilders/parrot.png"
+}

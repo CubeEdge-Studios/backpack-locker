@@ -1,0 +1,8 @@
+{
+    "type": "UNLOCK",
+    "game_id": "WARS",
+    "unlock_id": "TREASURE_PARTICLES",
+    "level_id": "47",
+    "name": "Rainbow Confetti",
+    "icon": "https://cdn.playhive.com/icons/locker/wars/particles/confetti.png"
+}

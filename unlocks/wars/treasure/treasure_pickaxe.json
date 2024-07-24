@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE",
+  "level_id": "76",
+  "name": "Pickaxe",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/pickaxe.png"
+}

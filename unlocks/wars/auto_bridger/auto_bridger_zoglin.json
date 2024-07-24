@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "WARS",
+  "unlock_id": "AUTO_BRIDGER",
+  "level_id": "90",
+  "name": "Zoglin",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/bridgebuilders/zoglin.png"
+}

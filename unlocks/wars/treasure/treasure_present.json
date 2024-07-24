@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE",
+  "level_id": "7",
+  "name": "Present",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/present.png"
+}

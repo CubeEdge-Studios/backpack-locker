@@ -1,0 +1,8 @@
+{
+    "type": "UNLOCK",
+    "game_id": "WARS",
+    "unlock_id": "TREASURE",
+    "level_id": "21",
+    "name": "Recycling Bin",
+    "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/recycling.png"
+}

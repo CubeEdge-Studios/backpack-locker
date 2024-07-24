@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE",
+  "level_id": "42",
+  "name": "Gold Chalice",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/gold-chalice.png"
+}

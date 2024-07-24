@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE",
+  "level_id": "100",
+  "name": "King Villager",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/king-villager.png"
+}
