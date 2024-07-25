@@ -108,7 +108,7 @@
       "type": "string"
     },
 
-    "image": {
+    "icon": {
       "type": "string"
     },
     "thumbnail": {
@@ -159,5 +159,13 @@
   },
   "else": {
     "required": ["type", "id", "name"]
-  }
+  },
+
+  "dependencies": {
+    "marketplace_id": ["id"],
+    "price": ["currency"],
+    "currency": ["price"]
+  },
+
+  "additionalProperties": false
 }
