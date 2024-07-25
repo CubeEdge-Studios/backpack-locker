@@ -55,9 +55,16 @@ async function validateFiles() {
 
     const relativePath = path.relative(baseFolder, filePath);
 
-    const fileContent = await fs
-      .readFile(filePath, "utf-8")
-      .then((c) => JSON.parse(c));
+    const rawFileContent = await fs.readFile(filePath, "utf-8");
+
+    let fileContent;
+    try {
+      fileContent = JSON.parse(rawFileContent);
+    } catch {
+      isValid = false;
+      console.error(`\u2717 Invalid JSON in file ${relativePath}.`);
+      continue;
+    }
 
     const fileIsValid = validate(fileContent);
     if (fileIsValid) {
