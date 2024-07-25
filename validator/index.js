@@ -48,7 +48,7 @@ async function validateFiles() {
 
   const validate = ajv.compile(schema);
 
-  let isValid = false;
+  let isValid = true;
   for (const filePath of files) {
     if (!filePath.endsWith(".json")) continue;
     if (filePath.endsWith(".schema.json")) continue;
@@ -59,14 +59,15 @@ async function validateFiles() {
       .readFile(filePath, "utf-8")
       .then((c) => JSON.parse(c));
 
-    const isValid = validate(fileContent);
-    if (isValid) {
+    const fileIsValid = validate(fileContent);
+    if (fileIsValid) {
       console.log(`\u2713 ${relativePath}`);
       continue;
     }
 
     console.error(`\u2717 ${relativePath}`);
     console.error(JSON.stringify(validate.errors, null, 2));
+    isValid = false;
   }
 
   if (!isValid) {
