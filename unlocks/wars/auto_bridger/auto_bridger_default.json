@@ -2,7 +2,7 @@
   "type": "UNLOCK",
   "game_id": "WARS",
   "unlock_id": "AUTO_BRIDGER",
-  "level_id": "0",
+  "level_id": "1",
   "name": "Default",
   "icon": "https://cdn.playhive.com/icons/locker/wars/bridgebuilders/turtle.png"
 }

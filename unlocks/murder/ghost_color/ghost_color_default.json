@@ -2,7 +2,7 @@
   "type": "UNLOCK",
   "game_id": "MURDER",
   "unlock_id": "GHOST_COLOR",
-  "level_id": "0",
+  "level_id": "1",
   "name": "Teal",
   "icon": "/unlocks/murder/ghost_color/teal.png"
 }

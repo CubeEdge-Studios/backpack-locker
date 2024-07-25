@@ -85,7 +85,6 @@
         "GRAVESTONE",
         "GHOST_COLOR",
         "THROWABLE",
-        "ZAPPER_TRAIL",
         "DEATH_CRATE",
         "ISLAND_FLAG",
         "SPAWN_VEHICLE",
@@ -129,6 +128,14 @@
     "currency": {
       "type": "string",
       "enum": ["MINECOIN"]
+    },
+
+    "gallery": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^((https?://.*.(?:png|jpg))|(/gallery/.*.(?:png|jpg)))$"
+      }
     },
 
     "tags": {

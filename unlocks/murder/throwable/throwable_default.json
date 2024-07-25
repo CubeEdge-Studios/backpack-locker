@@ -2,7 +2,7 @@
   "type": "UNLOCK",
   "game_id": "MURDER",
   "unlock_id": "THROWABLE",
-  "level_id": "0",
+  "level_id": "1",
   "name": "Default",
   "icon": "/unlocks/murder/throwable/axe.png"
 }

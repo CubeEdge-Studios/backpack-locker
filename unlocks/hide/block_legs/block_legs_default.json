@@ -1,8 +1,8 @@
 {
-    "type": "UNLOCK",
-    "game_id": "HIDE",
-    "unlock_id": "BLOCK_LEGS",
-    "level_id": "0",
-    "name": "Default Legs",
-    "icon": "https://cdn.playhive.com/icons/locker/hide/blocklegs/default.png"
+  "type": "UNLOCK",
+  "game_id": "HIDE",
+  "unlock_id": "BLOCK_LEGS",
+  "level_id": "1",
+  "name": "Default Legs",
+  "icon": "https://cdn.playhive.com/icons/locker/hide/blocklegs/default.png"
 }

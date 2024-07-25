@@ -1,8 +1,8 @@
 {
-    "json.schemas": [
-        {
-            "fileMatch": ["**/*.json"],
-            "url": "./schema.json"
-        }
-    ]
+  "json.schemas": [
+    {
+      "fileMatch": ["bundles/**/*.json", "unlocks/**/*.json"],
+      "url": "./cosmetic.schema.json"
+    }
+  ]
 }

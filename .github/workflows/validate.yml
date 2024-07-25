@@ -1,0 +1,20 @@
+name: validate-json
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate-json:
+    name: validate-json
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+      - run: npm install
+        working-directory: validator
+      - name: Validate JSON
+        run: node validator/index.js

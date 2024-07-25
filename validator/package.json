@@ -1,0 +1,11 @@
+{
+  "name": "validator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ajv": "^8.17.1"
+  },
+  "scripts": {
+    "validate": "node ./index.js"
+  }
+}

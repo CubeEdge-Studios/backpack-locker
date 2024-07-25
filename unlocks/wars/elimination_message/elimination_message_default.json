@@ -1,8 +1,8 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "ELIMINATION_MESSAGE",
-    "level_id": "0",
-    "name": "Default",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/finalphrase/default.png"
+  "type": "UNLOCK",
+  "game_id": "WARS",
+  "unlock_id": "ELIMINATION_MESSAGE",
+  "level_id": "1",
+  "name": "Default",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/finalphrase/default.png"
 }

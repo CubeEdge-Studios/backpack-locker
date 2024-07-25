@@ -1,7 +1,7 @@
 {
   "type": "UNLOCK",
   "game_id": "MURDER",
-  "unlock_id": "ZAPPER_TRAIL",
+  "unlock_id": "PROJECTILE_TRAIL",
   "level_id": "14",
   "name": "Gray Swirls",
   "icon": "/unlocks/particles.png"
