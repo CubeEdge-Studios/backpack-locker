@@ -14,7 +14,8 @@
         "PET",
         "BACKBLING",
         "UNLOCK"
-      ]
+      ],
+      "default": "BUNDLE"
     },
 
     "id": {
