@@ -1,9 +1,9 @@
 const Ajv = require("ajv");
 const path = require("path");
 const fs = require("fs/promises");
-const assert = require("assert");
 
 const ajv = new Ajv({ verbose: true });
+const SCHEMA = "cosmetic.schema.json";
 
 /**
  * @param {string} directoryPath The base directory to read
@@ -43,7 +43,7 @@ async function validateFiles() {
   ]);
 
   const schema = await fs
-    .readFile(path.resolve("./schema.json"), "utf-8")
+    .readFile(path.resolve(`./${SCHEMA}`), "utf-8")
     .then((c) => JSON.parse(c));
 
   const validate = ajv.compile(schema);
