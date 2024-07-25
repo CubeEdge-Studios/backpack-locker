@@ -109,10 +109,12 @@
     },
 
     "icon": {
-      "type": "string"
+      "type": "string",
+      "pattern": "^((https?://.*.(?:png|jpg))|(/.*.(?:png|jpg)))$"
     },
     "thumbnail": {
-      "type": "string"
+      "type": "string",
+      "pattern": "^(https?://.*.(?:png|jpg))$"
     },
 
     "display_text": {
