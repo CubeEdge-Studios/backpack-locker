@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "DROP",
+  "unlock_id": "LEAP_EFFECT",
+  "level_id": "18",
+  "name": "Yellow Swirls",
+  "icon": "/images/unlocks/particles.png"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "UNLOCK",
+  "game_id": "DROP",
+  "unlock_id": "TRAIL",
+  "level_id": "7",
+  "name": "Gold Sparkles",
+  "icon": "/images/unlocks/particles.png"
+}
