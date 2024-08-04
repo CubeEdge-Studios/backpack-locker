@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "AUTO_BRIDGER",
-    "level_id": "6",
-    "name": "Splish Splash",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/bridgebuilders/fish.png"
+  "type": "UNLOCK",
+  "id": "67741b16-8c0b-48e6-bf29-161228eeebdd",
+  "game_id": "WARS",
+  "unlock_id": "AUTO_BRIDGER",
+  "level_id": "6",
+  "name": "Splish Splash",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/bridgebuilders/fish.png"
 }

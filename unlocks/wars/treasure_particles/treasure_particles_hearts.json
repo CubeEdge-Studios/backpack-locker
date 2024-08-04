@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "TREASURE_PARTICLES",
-    "level_id": "14",
-    "name": "Hearts",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/particles/heart.png"
+  "type": "UNLOCK",
+  "id": "4e2eb1f1-cabc-4636-953a-8967fdf3fd15",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE_PARTICLES",
+  "level_id": "14",
+  "name": "Hearts",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/particles/heart.png"
 }

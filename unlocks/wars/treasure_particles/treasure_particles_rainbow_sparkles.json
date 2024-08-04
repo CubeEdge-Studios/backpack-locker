@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "TREASURE_PARTICLES",
-    "level_id": "27",
-    "name": "Rainbow Sparkles",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/particles/sparkle.png"
+  "type": "UNLOCK",
+  "id": "8b315f7b-86e3-4bfe-b5cb-d32e00f62fb5",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE_PARTICLES",
+  "level_id": "27",
+  "name": "Rainbow Sparkles",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/particles/sparkle.png"
 }

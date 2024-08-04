@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "AUTO_BRIDGER",
-    "level_id": "17",
-    "name": "Polar Bear",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/bridgebuilders/polarbear.png"
+  "type": "UNLOCK",
+  "id": "98b2f035-af4b-48a9-8892-837c8fd37fa7",
+  "game_id": "WARS",
+  "unlock_id": "AUTO_BRIDGER",
+  "level_id": "17",
+  "name": "Polar Bear",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/bridgebuilders/polarbear.png"
 }

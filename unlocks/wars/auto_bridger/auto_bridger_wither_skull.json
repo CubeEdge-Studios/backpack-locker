@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "AUTO_BRIDGER",
-    "level_id": "15",
-    "name": "Wither Skull",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/bridgebuilders/witherskull.png"
+  "type": "UNLOCK",
+  "id": "2dd169db-b47f-4622-a50f-5a7f883d883b",
+  "game_id": "WARS",
+  "unlock_id": "AUTO_BRIDGER",
+  "level_id": "15",
+  "name": "Wither Skull",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/bridgebuilders/witherskull.png"
 }

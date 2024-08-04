@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "TREASURE_PARTICLES",
-    "level_id": "80",
-    "name": "Spicy Sparkles",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/particles/sparkle.png"
+  "type": "UNLOCK",
+  "id": "4d3eb23f-526e-4873-b9f6-9f29a30e5788",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE_PARTICLES",
+  "level_id": "80",
+  "name": "Spicy Sparkles",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/particles/sparkle.png"
 }

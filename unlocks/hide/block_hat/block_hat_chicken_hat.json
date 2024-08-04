@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "HIDE",
-    "unlock_id": "BLOCK_HAT",
-    "level_id": "51",
-    "name": "Chicken Hat",
-    "icon": "https://cdn.playhive.com/icons/locker/hide/blockhat/chicken-hair.png"
+  "type": "UNLOCK",
+  "id": "31e7147d-f7e0-4295-ad6e-78e61205b0ad",
+  "game_id": "HIDE",
+  "unlock_id": "BLOCK_HAT",
+  "level_id": "51",
+  "name": "Chicken Hat",
+  "icon": "https://cdn.playhive.com/icons/locker/hide/blockhat/chicken-hair.png"
 }

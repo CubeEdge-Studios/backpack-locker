@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "TREASURE_PARTICLES",
-    "level_id": "97",
-    "name": "Yin Yang",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/particles/sparkle.png"
+  "type": "UNLOCK",
+  "id": "e825782f-0ac4-4f74-ad21-4ea309d485a9",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE_PARTICLES",
+  "level_id": "97",
+  "name": "Yin Yang",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/particles/sparkle.png"
 }

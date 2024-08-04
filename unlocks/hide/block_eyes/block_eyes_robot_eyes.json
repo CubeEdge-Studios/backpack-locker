@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "HIDE",
-    "unlock_id": "BLOCK_EYES",
-    "level_id": "6",
-    "name": "Robot Eyes",
-    "icon": "https://cdn.playhive.com/icons/locker/hide/blockeyes/robot.png"
+  "type": "UNLOCK",
+  "id": "fc774f71-e6a0-418a-85ac-20d73b1ab64f",
+  "game_id": "HIDE",
+  "unlock_id": "BLOCK_EYES",
+  "level_id": "6",
+  "name": "Robot Eyes",
+  "icon": "https://cdn.playhive.com/icons/locker/hide/blockeyes/robot.png"
 }

@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "HIDE",
-    "unlock_id": "BLOCK_LEGS",
-    "level_id": "6",
-    "name": "Robot Legs",
-    "icon": "https://cdn.playhive.com/icons/locker/hide/blocklegs/robot.png"
+  "type": "UNLOCK",
+  "id": "bdb8894d-cfc0-46cf-9d54-abfa0476b53d",
+  "game_id": "HIDE",
+  "unlock_id": "BLOCK_LEGS",
+  "level_id": "6",
+  "name": "Robot Legs",
+  "icon": "https://cdn.playhive.com/icons/locker/hide/blocklegs/robot.png"
 }

@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "AUTO_BRIDGER",
-    "level_id": "45",
-    "name": "Mini Ghast",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/bridgebuilders/ghast.png"
+  "type": "UNLOCK",
+  "id": "5648c232-8188-4ebe-bc1e-eac2a7689f9b",
+  "game_id": "WARS",
+  "unlock_id": "AUTO_BRIDGER",
+  "level_id": "45",
+  "name": "Mini Ghast",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/bridgebuilders/ghast.png"
 }

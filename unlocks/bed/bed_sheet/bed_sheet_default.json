@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "BED",
-    "unlock_id": "BED_SHEET",
-    "level_id": "1",
-    "name": "Default",
-    "icon": "https://cdn.playhive.com/icons/locker/bed/sheet/default.png"
+  "type": "UNLOCK",
+  "id": "339052a2-a39b-46b5-aa99-5919493c440a",
+  "game_id": "BED",
+  "unlock_id": "BED_SHEET",
+  "level_id": "1",
+  "name": "Default",
+  "icon": "https://cdn.playhive.com/icons/locker/bed/sheet/default.png"
 }

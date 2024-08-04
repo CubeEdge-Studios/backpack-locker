@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "TREASURE",
-    "level_id": "18",
-    "name": "Skeleton Chest",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/skeleton.png"
+  "type": "UNLOCK",
+  "id": "78900194-6631-4fe0-8aa8-48820c5cc6c2",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE",
+  "level_id": "18",
+  "name": "Skeleton Chest",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/skeleton.png"
 }

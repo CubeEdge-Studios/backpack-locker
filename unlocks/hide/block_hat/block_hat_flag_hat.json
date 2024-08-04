@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "HIDE",
-    "unlock_id": "BLOCK_HAT",
-    "level_id": "23",
-    "name": "Flag Hat",
-    "icon": "https://cdn.playhive.com/icons/locker/hide/blockhat/flag.png"
+  "type": "UNLOCK",
+  "id": "13783d2c-e66c-492f-8cfc-9d4049ab653d",
+  "game_id": "HIDE",
+  "unlock_id": "BLOCK_HAT",
+  "level_id": "23",
+  "name": "Flag Hat",
+  "icon": "https://cdn.playhive.com/icons/locker/hide/blockhat/flag.png"
 }

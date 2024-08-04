@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "BED",
-    "unlock_id": "BED_PILLOW",
-    "level_id": "16",
-    "name": "Pirate Captain",
-    "icon": "https://cdn.playhive.com/icons/locker/bed/pillow/pirate-captain.png"
+  "type": "UNLOCK",
+  "id": "00af109e-d76e-45bc-b994-5219abb93f1a",
+  "game_id": "BED",
+  "unlock_id": "BED_PILLOW",
+  "level_id": "16",
+  "name": "Pirate Captain",
+  "icon": "https://cdn.playhive.com/icons/locker/bed/pillow/pirate-captain.png"
 }

@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "BED",
-    "unlock_id": "MERCHANT_SKIN",
-    "level_id": "1",
-    "name": "Default",
-    "icon": "https://cdn.playhive.com/icons/locker/bed/merchant/default.png"
+  "type": "UNLOCK",
+  "id": "f4601fb8-2a0c-4266-b922-1f6006a4a038",
+  "game_id": "BED",
+  "unlock_id": "MERCHANT_SKIN",
+  "level_id": "1",
+  "name": "Default",
+  "icon": "https://cdn.playhive.com/icons/locker/bed/merchant/default.png"
 }
