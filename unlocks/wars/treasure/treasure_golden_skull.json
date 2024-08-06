@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "TREASURE",
-    "level_id": "48",
-    "name": "Golden Skull",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/skull.png"
+  "type": "UNLOCK",
+  "id": "5974e390-3980-4b45-8fcb-0a9b5232fd31",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE",
+  "level_id": "48",
+  "name": "Golden Skull",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/skull.png"
 }

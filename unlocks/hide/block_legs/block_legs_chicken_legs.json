@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "HIDE",
-    "unlock_id": "BLOCK_LEGS",
-    "level_id": "18",
-    "name": "Chicken Legs",
-    "icon": "https://cdn.playhive.com/icons/locker/hide/blocklegs/chicken.png"
+  "type": "UNLOCK",
+  "id": "f79bf3c5-d7f3-4d1c-9ab7-71cdd3255da8",
+  "game_id": "HIDE",
+  "unlock_id": "BLOCK_LEGS",
+  "level_id": "18",
+  "name": "Chicken Legs",
+  "icon": "https://cdn.playhive.com/icons/locker/hide/blocklegs/chicken.png"
 }

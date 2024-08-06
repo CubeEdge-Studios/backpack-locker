@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "TREASURE",
-    "level_id": "16",
-    "name": "Traffic Cone",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/traffic.png"
+  "type": "UNLOCK",
+  "id": "385c2109-87cc-411b-98ca-110fc368deee",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE",
+  "level_id": "16",
+  "name": "Traffic Cone",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/traffic.png"
 }

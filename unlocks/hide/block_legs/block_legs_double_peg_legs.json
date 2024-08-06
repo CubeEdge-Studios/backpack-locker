@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "HIDE",
-    "unlock_id": "BLOCK_LEGS",
-    "level_id": "54",
-    "name": "Double Peg Legs",
-    "icon": "https://cdn.playhive.com/icons/locker/hide/blocklegs/double-peg-leg.png"
+  "type": "UNLOCK",
+  "id": "fb5238af-1f48-46d1-8c33-56ff5356354b",
+  "game_id": "HIDE",
+  "unlock_id": "BLOCK_LEGS",
+  "level_id": "54",
+  "name": "Double Peg Legs",
+  "icon": "https://cdn.playhive.com/icons/locker/hide/blocklegs/double-peg-leg.png"
 }

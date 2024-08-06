@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "TREASURE_PARTICLES",
-    "level_id": "89",
-    "name": "Ice Blast",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/particles/sparkle.png"
+  "type": "UNLOCK",
+  "id": "f1c6cfc7-7e03-45b9-86b7-743a32d6629d",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE_PARTICLES",
+  "level_id": "89",
+  "name": "Ice Blast",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/particles/sparkle.png"
 }

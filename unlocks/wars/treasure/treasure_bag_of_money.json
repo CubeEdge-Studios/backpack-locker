@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "TREASURE",
-    "level_id": "32",
-    "name": "Bag of Money",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/money.png"
+  "type": "UNLOCK",
+  "id": "9924a229-398f-4880-9602-eec78fdfcbbf",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE",
+  "level_id": "32",
+  "name": "Bag of Money",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/money.png"
 }

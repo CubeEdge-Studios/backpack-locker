@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "BED",
-    "unlock_id": "BED_SHEET",
-    "level_id": "12",
-    "name": "The End",
-    "icon": "https://cdn.playhive.com/icons/locker/bed/sheet/end.png"
+  "type": "UNLOCK",
+  "id": "bf037270-dc19-4fff-b008-d9baa1ef69f0",
+  "game_id": "BED",
+  "unlock_id": "BED_SHEET",
+  "level_id": "12",
+  "name": "The End",
+  "icon": "https://cdn.playhive.com/icons/locker/bed/sheet/end.png"
 }

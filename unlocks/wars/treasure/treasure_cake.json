@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "TREASURE",
-    "level_id": "20",
-    "name": "CAKE!",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/cake.png"
+  "type": "UNLOCK",
+  "id": "8dcbbbe7-3bec-482d-a8f2-cf8ee9f55293",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE",
+  "level_id": "20",
+  "name": "CAKE!",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/cake.png"
 }

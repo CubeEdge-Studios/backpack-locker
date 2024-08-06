@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "TREASURE_PARTICLES",
-    "level_id": "5",
-    "name": "Swirls",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/particles/swirl.png"
+  "type": "UNLOCK",
+  "id": "fb446519-c2e9-41ac-a497-008346897b4d",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE_PARTICLES",
+  "level_id": "5",
+  "name": "Swirls",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/particles/swirl.png"
 }

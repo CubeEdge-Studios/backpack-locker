@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "HIDE",
-    "unlock_id": "BLOCK_HAT",
-    "level_id": "58",
-    "name": "Snoozing Sniffer Hat",
-    "icon": "https://cdn.playhive.com/icons/locker/hide/blockhat/snoozing-sniffer.png"
+  "type": "UNLOCK",
+  "id": "4e442713-23ff-4f1d-ae0d-52bf6d80a666",
+  "game_id": "HIDE",
+  "unlock_id": "BLOCK_HAT",
+  "level_id": "58",
+  "name": "Snoozing Sniffer Hat",
+  "icon": "https://cdn.playhive.com/icons/locker/hide/blockhat/snoozing-sniffer.png"
 }

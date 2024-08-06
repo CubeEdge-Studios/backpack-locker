@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "BED",
-    "unlock_id": "PROJECTILE_TRAIL",
-    "level_id": "10",
-    "name": "Pink Swirls",
-    "icon": "https://cdn.playhive.com/icons/locker/bed/projectile-trail/swirl.png"
+  "type": "UNLOCK",
+  "id": "d9e9a08e-1ebe-4304-b3e2-7f382859b2df",
+  "game_id": "BED",
+  "unlock_id": "PROJECTILE_TRAIL",
+  "level_id": "10",
+  "name": "Pink Swirls",
+  "icon": "https://cdn.playhive.com/icons/locker/bed/projectile-trail/swirl.png"
 }

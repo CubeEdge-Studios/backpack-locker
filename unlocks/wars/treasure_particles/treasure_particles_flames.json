@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "TREASURE_PARTICLES",
-    "level_id": "11",
-    "name": "Flames",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/particles/flame.png"
+  "type": "UNLOCK",
+  "id": "e8b64d5d-47e1-4741-bf24-9316b6d36324",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE_PARTICLES",
+  "level_id": "11",
+  "name": "Flames",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/particles/flame.png"
 }

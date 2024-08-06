@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "HIDE",
-    "unlock_id": "BLOCK_LEGS",
-    "level_id": "10",
-    "name": "Peg Leg",
-    "icon": "https://cdn.playhive.com/icons/locker/hide/blocklegs/pegleg.png"
+  "type": "UNLOCK",
+  "id": "80094806-6371-439d-8b08-a43e155f0f66",
+  "game_id": "HIDE",
+  "unlock_id": "BLOCK_LEGS",
+  "level_id": "10",
+  "name": "Peg Leg",
+  "icon": "https://cdn.playhive.com/icons/locker/hide/blocklegs/pegleg.png"
 }

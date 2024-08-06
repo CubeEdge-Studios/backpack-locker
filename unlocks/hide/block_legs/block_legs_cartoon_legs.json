@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "HIDE",
-    "unlock_id": "BLOCK_LEGS",
-    "level_id": "14",
-    "name": "Cartoon Legs",
-    "icon": "https://cdn.playhive.com/icons/locker/hide/blocklegs/cartoon.png"
+  "type": "UNLOCK",
+  "id": "5d51b189-ea29-402b-910b-b6fdaf3fec1b",
+  "game_id": "HIDE",
+  "unlock_id": "BLOCK_LEGS",
+  "level_id": "14",
+  "name": "Cartoon Legs",
+  "icon": "https://cdn.playhive.com/icons/locker/hide/blocklegs/cartoon.png"
 }

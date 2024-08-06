@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "TREASURE",
-    "level_id": "34",
-    "name": "Pirate Parrot",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/parrot.png"
+  "type": "UNLOCK",
+  "id": "098c8a3b-d891-4bb3-b482-d44321e6137a",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE",
+  "level_id": "34",
+  "name": "Pirate Parrot",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/parrot.png"
 }

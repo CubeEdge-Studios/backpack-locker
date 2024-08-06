@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "TREASURE",
-    "level_id": "4",
-    "name": "Moai Head",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/moai.png"
+  "type": "UNLOCK",
+  "id": "59a8ac64-7b32-4bfd-bff3-ad84a9d8259d",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE",
+  "level_id": "4",
+  "name": "Moai Head",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/moai.png"
 }

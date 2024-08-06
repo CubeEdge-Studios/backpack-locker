@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "BED",
-    "unlock_id": "BED_TOPPER",
-    "level_id": "45",
-    "name": "Warden Plush",
-    "icon": "https://cdn.playhive.com/icons/locker/bed/topper/warden.png"
+  "type": "UNLOCK",
+  "id": "cac3fdb3-a085-4c5d-9b21-adde9ebfedb6",
+  "game_id": "BED",
+  "unlock_id": "BED_TOPPER",
+  "level_id": "45",
+  "name": "Warden Plush",
+  "icon": "https://cdn.playhive.com/icons/locker/bed/topper/warden.png"
 }

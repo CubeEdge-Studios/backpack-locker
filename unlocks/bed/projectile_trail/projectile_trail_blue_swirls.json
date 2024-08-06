@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "BED",
-    "unlock_id": "PROJECTILE_TRAIL",
-    "level_id": "5",
-    "name": "Blue Swirls",
-    "icon": "https://cdn.playhive.com/icons/locker/bed/projectile-trail/swirl.png"
+  "type": "UNLOCK",
+  "id": "77eaaa30-8beb-4fbf-ab43-c5f0a814540e",
+  "game_id": "BED",
+  "unlock_id": "PROJECTILE_TRAIL",
+  "level_id": "5",
+  "name": "Blue Swirls",
+  "icon": "https://cdn.playhive.com/icons/locker/bed/projectile-trail/swirl.png"
 }

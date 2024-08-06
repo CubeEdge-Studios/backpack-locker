@@ -165,7 +165,7 @@
     "properties": { "type": { "const": "UNLOCK" } }
   },
   "then": {
-    "required": ["type", "game_id", "unlock_id", "level_id", "name"]
+    "required": ["type", "id", "name", "game_id", "unlock_id", "level_id"]
   },
   "else": {
     "required": ["type", "id", "name"]

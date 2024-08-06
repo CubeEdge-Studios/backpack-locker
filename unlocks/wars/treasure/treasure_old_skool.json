@@ -1,8 +1,9 @@
 {
-    "type": "UNLOCK",
-    "game_id": "WARS",
-    "unlock_id": "TREASURE",
-    "level_id": "13",
-    "name": "Old Skool",
-    "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/tv.png"
+  "type": "UNLOCK",
+  "id": "f9448318-59b6-41c0-b7e3-9c824651380a",
+  "game_id": "WARS",
+  "unlock_id": "TREASURE",
+  "level_id": "13",
+  "name": "Old Skool",
+  "icon": "https://cdn.playhive.com/icons/locker/wars/treasure/tv.png"
 }
